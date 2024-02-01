@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HappyEpicBoi</title>
+    <!-- Include your CSS styles here -->
+    <style>
+      body {
+        background-color: #bac7db; /* Set the background color here */
+      }
+
+      h1 {
+        color: #01051a; /* Set the text color of the h1 element */
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to my Website!</h1>
+    <p>Hello! This is my website where I upload things!</p>
+    I like being <strong>Helpful</strong> and <em>Making</em> things.
+    
+    <p>Things I Do (If You Are New To Me):</p>
+    
+    <ul>
+      <li>Art</li>
+      <li>Music</li>
+    </ul>
+    <p> I also have a <a href="https://www.youtube.com/channel/UCUW_twmtzvxNP7OED8mOfrA">youtube channel</a> and a <a href="https://discord.gg/TueHt3PGMe">Discord Server!</a></p>
+    <p>Discord server is for 13+ only, having music and art.</p>
+    <p><a href="Content.html">Content</a></p>
+    <p><a href="People.html">People</a></p>
+    <p><a href="HappyEpicBoi.html">More Info</a></p>
+    <img src="HappyEpicBoi.gif" alt="Description of the image" width="85" height="170">
+    <p></p><img src="neocities.png">
+  </body>
+</html>
